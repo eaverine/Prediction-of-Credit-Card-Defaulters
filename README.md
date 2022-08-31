@@ -1,6 +1,6 @@
 ## Dataset
->This dataset consists of 30000 rows and 25 columns, having columns of information like customer ID, sex, education, marriage,
-repayment status, etc   
+>This dataset consists of 30000 rows and 25 columns, having columns of information like customer ID, Sex, Education, Marriage,
+Repayment status, etc   
 >- The overview of the dataset can be seen on [Kaggle](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset/).
 
 ## Project Overview
